@@ -2,7 +2,7 @@
 
 ## Welcome ##
 
-This repro provides library files for the Afero ASR-1 module in Allegro, Eagle, and OrCad Capture file formats. Also contains board layouts and schematics for the Modulo and Plinto development boards.
+This repro provides library files for the Afero ASR-1 module and board layouts and schematics for the Modulo and Plinto development boards. ASR-1 library files are provided in Allegro, Eagle, and OrCad Capture file formats.
 
 ### More Information ###
 
