@@ -1,5 +1,3 @@
-# Afero Hardware Designs #
-
 ## Afero ASR-1 Secure Radio Module Library ##
 
 - *ASR-1 library files* provided in Allegro, Eagle, and OrCad Capture file formats.
