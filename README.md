@@ -1,8 +1,18 @@
 # Afero Hardware Designs #
 
-## Welcome ##
+## Afero ASR-1 Secure Radio Module Library ##
 
-This repro provides library files for the Afero ASR-1 module and board layouts and schematics for the Modulo and Plinto development boards. ASR-1 library files are provided in Allegro, Eagle, and OrCad Capture file formats.
+- *ASR-1 library files* provided in Allegro, Eagle, and OrCad Capture file formats.
+
+## Afero Module Development Board ##
+
+- *Modulo layout* in Allegro 16.6 file format.
+- *Modulo schematic* in Orcad Capture file format.
+
+## Afero Plinto Development Board ##
+
+- *Plinto layout* in Eagle file format.
+- *Plinto schematic* in Eagle file format.
 
 ### More Information ###
 
