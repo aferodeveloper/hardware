@@ -1,6 +1,14 @@
-# hardware
+# Afero Hardware Designs #
 
-## LICENSE
+## Welcome ##
+
+This repro provides library files for the Afero ASR-1 module in Allegro, Eagle, and OrCad Capture file formats. Also contains board layouts and schematics for the Modulo and Plinto development boards.
+
+### More Information ###
+
+<http://developer.afero.io>
+
+### License ###
 
 Copyright 2015 Afero, Inc.
 
