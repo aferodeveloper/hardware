@@ -1,16 +1,16 @@
 ## Afero ASR-1 Secure Radio Module Library ##
 
-- *ASR-1 library files* provided in Allegro, Eagle, and OrCad Capture file formats.
+- **ASR-1 library files** provided in Allegro, Eagle, and OrCad Capture file formats.
 
 ## Afero Module Development Board ##
 
-- *Modulo layout* in Allegro 16.6 file format.
-- *Modulo schematic* in Orcad Capture file format.
+- **Modulo layout** in Allegro 16.6 file format.
+- **Modulo schematic** in Orcad Capture file format.
 
 ## Afero Plinto Development Board ##
 
-- *Plinto layout* in Eagle file format.
-- *Plinto schematic* in Eagle file format.
+- **Plinto layout** in Eagle file format.
+- **Plinto schematic** in Eagle file format.
 
 ### More Information ###
 
